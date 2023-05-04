@@ -4,7 +4,7 @@ I'm junior front-end developer
 ### About me      
 - 🔭 I’m currently working on online shop with sample from Figma
 - 🌱 I’m currently learning deeper JavaScript
-- :mailbox_with_no_mail: Reach me by [LinkedIn](https://www.linkedin.com/in/evghenia-sorocean-b5b796b4/), [email](ereveakina@gmail.com)
+- :mailbox_with_no_mail: Reach me by [LinkedIn](https://www.linkedin.com/in/evghenia-sorocean-b5b796b4/)
 - I speak English
 
 ### My tech stack
