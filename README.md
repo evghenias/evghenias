@@ -2,8 +2,11 @@
 I'm junior front-end developer
 
 ### About me      
-- 🔭 I’m currently working on online shop with sample from Figma
-- 🌱 I’m currently learning deeper JavaScript
+- Course Front-end developer “Skill-Up” (08/2019-12/2019)
+- Course Front End Developer  “CODIFUN” (15/09/2020-25/12/2020)
+-	Internship «Front-end» Orange Moldova (10/2021-03/2022)
+
+- 🌱 I’m currently learning course "The Complete Web Developer in 2022: Zero to Mastery" – Udemy
 - I speak English
 
 ### My tech stack
