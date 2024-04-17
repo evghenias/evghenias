@@ -6,7 +6,7 @@ I'm junior front-end developer
 - Course Front - end developer  “CODIFUN” (15/09/2020-25/12/2020)
 -	Internship edition «Front-end» Orange Moldova (10/2021-03/2022)
 
-- 🌱 "The Complete Web Developer in 2023: Zero to Mastery" – Udemy
+- 🌱 "[LEGACY] Web Dev" – Udemy(8/2023-03/2024)
 - I speak English
 
 ### My tech stack
